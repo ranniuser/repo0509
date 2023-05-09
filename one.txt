@@ -5,4 +5,5 @@ adding two lines
 test line from git 6
 inserting some text line1
 inserting text 2
+inserting text 3 from github
 
